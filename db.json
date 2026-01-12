@@ -1,0 +1,662 @@
+{
+  "slider" : [
+    {
+        "slide_1": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1766133272122_1766133272119_wolt_post_sayt_banner__avatar.png&w=3840&q=75",
+        "slide_2": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1764670381422_1764670381419_wolt_post_sayt_banner_freddy.png&w=3840&q=75",
+        "slide_3": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1763369648490_1763369648490_banner__zoopolis.png&w=3840&q=75",
+        "slide_4": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1750852575156_1750852575156_wolt_post_sayt_banner.png&w=3840&q=75"
+
+    }
+  ],
+    "movies": [
+        {
+            "id": "6809f2e687f15d5253eeea86",
+            "name": "Səkkiz(1-ci hissə)",
+            "description": "Məktəbli qızının intiharından sonra baş qəhrəmanın həyatı tamamilə dağılır. Bu itki onun içində gizli qalmış uşaqlıq travmalarını oyadır və ağrı qisas istəyinə çevrilir. O, qızının ölümündə günahkar bildiyi insanları bir-bir hədəf almağa başlayır. Keçmiş həyat yoldaşı, biganə tibb bacısı, məktəb direktoru və ən yaxınları onun yolunda dayanır. Hər qətl onu azad etməli idi, amma əksinə, daha da qaranlığa sürükləyir. Cəmiyyətdə sakit və mehriban görünən bu kişi, daxilində tam başqa bir insandır.",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "Hikmət Rəhimov",
+            "actors": [
+                "Hikmət Rəhimov",
+                "Rasim Cəfər",
+                "Yeganə Hüseyinli",
+                "Elşən Rüstəmov",
+                "Loğman Kərimov",
+                "Sənan Əlləz",
+                "Zülfiyyə Qurbanova"
+            ],
+            "genres": [
+                {
+                    "id": "67729bcbbf13b4256e98c0ff",
+                    "title": "Trillerlər"
+                }
+            ],
+            "movieId": 0,
+            "duration": 100,
+            "firstScreeningDate": "12/27/2025",
+            "year": 2025,
+            "ageLimit": "18+",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767871593890_Screenshot_2026-01-08_152435.png&w=1080&q=75",
+            "subtitles": [
+                "Altyazı yoxdur"
+            ],
+            "trailerUrl": "",
+            "youtubeUrl": "https://youtu.be/iskn2E2pvN4?si=LMy4WRFAiExFiuf6",
+            "active": true,
+            "preSale": true
+        },
+        {
+            "id": "680a15e087f15d5253eef85c",
+            "name": "Səkkiz(2-ci hissə)",
+            "description": "Məktəbli qızının intiharından sonra baş qəhrəmanın həyatı tamamilə dağılır. Bu itki onun içində gizli qalmış uşaqlıq travmalarını oyadır və ağrı qisas istəyinə çevrilir. O, qızının ölümündə günahkar bildiyi insanları bir-bir hədəf almağa başlayır. Keçmiş həyat yoldaşı, biganə tibb bacısı, məktəb direktoru və ən yaxınları onun yolunda dayanır. Hər qətl onu azad etməli idi, amma əksinə, daha da qaranlığa sürükləyir. Cəmiyyətdə sakit və mehriban görünən bu kişi, daxilində tam başqa bir insandır.",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "Hikmət Rəhimov",
+            "actors": [
+                  "Hikmət Rəhimov",
+                "Rasim Cəfər",
+                "Yeganə Hüseyinli",
+                "Elşən Rüstəmov",
+                "Loğman Kərimov",
+                "Sənan Əlləz",
+                "Zülfiyyə Qurbanova"
+            ],
+            "genres": [
+                {
+                    "id": "67729bf2bf13b4256e98c15c",
+                    "title": "Trillerlər"
+                }
+            ],
+            "movieId": 0,
+            "duration": 100,
+            "firstScreeningDate": "1/9/2026",
+            "year": 2025,
+            "ageLimit": "18+",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767871566308_Screenshot_2026-01-08_152449.png&w=640&q=75",
+            "subtitles": [
+                "Altyazı yoxdur"
+            ],
+            "trailerUrl": "",
+            "youtubeUrl": "",
+            "active": true,
+            "preSale": true
+        },
+        {
+            "id": "67ef93646f500c02f5d91a56",
+            "name": "Səkkiz(3-cü hissə)",
+            "description": "Məktəbli qızının intiharından sonra baş qəhrəmanın həyatı tamamilə dağılır. Bu itki onun içində gizli qalmış uşaqlıq travmalarını oyadır və ağrı qisas istəyinə çevrilir. O, qızının ölümündə günahkar bildiyi insanları bir-bir hədəf almağa başlayır. Keçmiş həyat yoldaşı, biganə tibb bacısı, məktəb direktoru və ən yaxınları onun yolunda dayanır. Hər qətl onu azad etməli idi, amma əksinə, daha da qaranlığa sürükləyir. Cəmiyyətdə sakit və mehriban görünən bu kişi, daxilində tam başqa bir insandır.",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "Hikmət Rəhimov",
+            "actors": [
+                  "Hikmət Rəhimov",
+                "Rasim Cəfər",
+                "Yeganə Hüseyinli",
+                "Elşən Rüstəmov",
+                "Loğman Kərimov",
+                "Sənan Əlləz",
+                "Zülfiyyə Qurbanova"
+            ],
+            "genres": [
+                {
+                    "id": "67ef925f6f500c02f5d91a21",
+                    "title": "Trillerlər"
+                }
+            ],
+            "movieId": 0,
+            "duration": 100,
+            "firstScreeningDate": "1/15/2026",
+            "year": 2025,
+            "ageLimit": "18+",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767876820507_Screenshot_2026-01-08_165333.png&w=1080&q=75",
+            "subtitles": [
+                "Altyazı yoxdur"
+            ],
+            "trailerUrl": "",
+            "youtubeUrl": "",
+            "active": true,
+            "preSale": true
+        },
+        {
+            "id": "67ef8e906f500c02f5d9181f",
+            "name": "Çılpaq",
+            "description": "Sabir və onun ailəsi getdikcə daha dərin şəkildə yoxsulluq bataqlığına sürüklənir. Qonşunun qəfil ölümü vəziyyəti daha da çətinləşdirir. Sabir cəsədi dəfn etməlidir, çünki bunu etməyə razı olan yeganə insandır. Lakin heç bir qəbiristanlıq onu qəbul etmir və böyük rüşvət tələb edir. Daimi gərginlik, daxili münaqişə və verdiyi qərarların ardıcıllığı Sabiri əsl ailə fəlakətinə aparır.",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "Hikmət Rəhimov",
+            "actors": [
+                "Hikmət Rəhimov",
+                "Rasim Cəfər",
+                "Elşən Əsgərov",
+                "Vaqif Kərimov",
+                "Ayşad Məmmədov",
+                "Abdul Qəni Əliyev",
+                "Azər Aydəmir"
+            ],
+            "genres": [
+                {
+                    "id": "67693af4c8bf5553b2cd258e",
+                    "title": "Drama"
+                }
+            ],
+            "movieId": 0,
+            "duration": 130,
+            "firstScreeningDate": "1/15/2026",
+            "year": 2022,
+            "ageLimit": "16+",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767878694013_Screenshot_2026-01-08_172444.png&w=640&q=75",
+            "subtitles": [
+                "Altyazı yoxdur"
+            ],
+            "trailerUrl": "",
+            "youtubeUrl": "",
+            "active": true,
+            "preSale": true
+        },
+        {
+            "id": "67ed0f94d596ba0a67b56dd4",
+            "name": "Apatiya 2",
+            "description": "Filmin baş qəhrəmanı Akif anasını tapmaq üçün uşaqlar evindən qaçır. Sonu dumanlı görünən bu əzablı yolda qəhrəman xeyli çətinliklərlə üzləşir. Prokurorluq əməkdaşının hadisələrə çevik müdaxiləsi tamaşaçıya həyatın dibinə dair bir çox suallar verir. Apatiya-2 hesabsız-kitabsız dünyaya uşaq gətirən zəniyyətə var gücü ilə 'şillə' vurur.",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "Hikmət Rəhimov",
+            "actors": [
+                "Tural Baxış Şəhla Əliqızı Fuad Cəbiyev"
+            ],
+            "genres": [
+                {
+                    "id": "67ef8f266f500c02f5d9189f",
+                    "title": "Trillerlər"
+                }
+            ],
+            "movieId": 0,
+            "duration": 90,
+            "firstScreeningDate": "1/15/2026",
+            "year": 2025,
+            "ageLimit": "18+",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1743592131400_POSTER.jpg&w=1080&q=75",
+            "subtitles": "Altyazı yoxdur",
+            "trailerUrl": "https://youtu.be/IjN1DmY4Vwg?si=s-3UcE-NhK9AhegJ",
+            "youtubeUrl": "https://youtu.be/IjN1DmY4Vwg?si=s-3UcE-NhK9AhegJ",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67d0036683e3785bb4f16eac",
+            "name": "Avatar: Alov və Kül",
+            "description": "Ceyk Salli və Neytiri Alfa-Sentavr sisteminin digər planetlərinə səyahət edirlər.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Ceyms Kemeron",
+            "actors": [
+                "Keyt Vinslet, Zoyi Saldana, Stiven Lenq, Sigurni Uiver"
+            ],
+            "genres": [
+                {
+                    "id": "67693af4c8bf5553b2cd258e",
+                    "title": "Macəra,Fantastika,Döyüş,Trillerlər"
+                }
+            ],
+            "movieId": 0,
+            "duration": 320,
+            "firstScreeningDate": "12/18/2025",
+            "year": 2025,
+            "ageLimit": "16+",
+            "languages": [
+                "TR",
+                "EN",
+                "RU"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1758267691253_1080x_(16).jpeg.jpg&w=1080&q=75",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "",
+            "youtubeUrl": "",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ed119ed596ba0a67b56dd6",
+            "name": "SpancBob: Kvadrat şalvarın axtarışında",
+            "description": "Süngər Bob Patrik ilə birlikdə okeanın ən dərinlərinə yola düşür ki, Uçan Hollandiyanın ruhu ilə görüşsün. Yol boyu onu həyəcanlı sınaqlar, sirli dəniz sirləri və sualtı dünyada yeni kəşflər gözləyir. Bu arada Mr. Krabs və Squidvard Süngər Bobun izini izləyir və onu xilas etməyə çalışırlar.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Derek Draymon",
+            "actors": [
+                "Tom Kenni, Klensi Braun"
+            ],
+            "genres": [
+                {
+                    "id": "67693af4c8bf5553b2cd258e",
+                    "title": "Macəra,Cizgi filmi,Fantastika,Komediya,Ailəvi"
+                }
+            ],
+            "movieId": 0,
+            "duration": 140,
+            "firstScreeningDate": "12/25/2025",
+            "year": 2025,
+            "ageLimit": "6+",
+            "languages": [
+                "TR",
+                "RU"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1764577320678_Screenshot_2025-12-01_122150.png&w=640&q=75",
+            "subtitles": "AZE",
+            "trailerUrl": "https://youtu.be/KZEU9YRbn6s",
+            "youtubeUrl": "https://youtu.be/KZEU9YRbn6s",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ef8b076f500c02f5d916d7",
+            "name": "Qurd Dişi",
+            "description": "Əyalət müğənnisi Dilşad Kədərli məşhurluq ardınca paytaxta üz tutur. Anlaşılmazlıq nəticəsində onu cinayətkar bilib izinə düşürlər. Üstəlik Dilşad dələduz prodüserlərin məşhurluq vədlərinin qurbanı olur. Görəsən heç olmasa qurd dişi talismanı onu xilas edə biləcəkmi?",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "Elmir Süleymanov",
+            "actors": [
+                "Müşviq Şahverdiyev",
+                "İlkin Misgərli",
+                "Könül Yusifqızı",
+                "Aygün Akif",
+                "Abbas Qəhrəman"
+            ],
+            "genres": [
+                {
+                    "id": "67693b21c8bf5553b2cd258f",
+                    "title": "Komediya"
+                }
+            ],
+            "movieId": 0,
+            "duration": 150,
+            "firstScreeningDate": "12/11/2025",
+            "year": 2023,
+            "ageLimit": "16+",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1764746922057__WhatsApp_2025-12-03__11.28.24_bc937087.jpg&w=640&q=75",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "",
+            "youtubeUrl": "",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ef8c7e6f500c02f5d91718",
+            "name": "Buratino",
+            "description": "Bir gün Papa Karlonun əlinə istənilən arzunu yerinə yetirə bilən qədim sehrli açar düşür. Tənha ustanın tək arzusu var — oğlu olsun. Arzu artıq demək olar ki, gerçəkləşir, lakin odun parçası canlanır və ondan ağıllı, şən və taxta bir oğlan yaranır. Papa Karlo oğlunu çox sevir, amma Buratino zamanla başa düşür ki, o, hamı kimi deyil. O, atasına sübut etmək üçün uzun və macəralarla dolu bir səyahətə çıxır: o, yaxşı və həqiqi bir oğuldur.",
+            "iticketLink": null,
+            "country": "Rusiya",
+            "director": "İqor Voloşin",
+            "actors": [
+                "Vitaliya Kornienko",
+                "Aleksandr Petrov",
+                "Ruzil Minekaev",
+                "Fyodor Bondarçuk"
+            ],
+            "genres": [
+                {
+                    "id": "67ef8ea96f500c02f5d91829",
+                    "title": "Ailəvi"
+                }
+            ],
+            "movieId": 0,
+            "duration": 150,
+            "firstScreeningDate": "1/1/2026",
+            "year": 2025,
+            "ageLimit": "6+",
+            "languages": [
+                "RU"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1765787960303_Screenshot_2025-12-15_123912.png&w=640&q=75",
+            "subtitles": "AZE",
+            "trailerUrl": "https://youtu.be/9XNkWa8pYto",
+            "youtubeUrl": "https://youtu.be/9XNkWa8pYto",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67d009c583e3785bb4f16eaf",
+            "name": "Primat",
+            "description": "Lüsi dostları ilə birlikdə Havay adalarındakı evlərinə — atası Adamın, bacısı Erinın və onların ev heyvanı olan şimpanze Benin yanına qayıdır. Yazıçı olan Adam pərəstişkarları ilə görüşə getmək üçün evdən çıxanda, Lüsi bir məclis təşkil etməyə qərar verir. Lakin gənclər Benin başqa bir heyvandan quduzluğa yoluxduğunu bilmirlər və məclis başlayandan qısa müddət sonra primat aqressivləşir.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Yohannes Roberts",
+            "actors": [
+                "Conni Sekvoya",
+                "Troy Kotsur"
+            ],
+            "genres": [
+                {
+                    "id": "67693b21c8bf5553b2cd258f",
+                    "title": "Dəhşət"
+                }
+            ],
+            "movieId": 0,
+            "duration": 140,
+            "firstScreeningDate": "1/8/2026",
+            "year": 2025,
+            "ageLimit": "18+",
+            "languages": [
+                "RU",
+                "EN"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1765788315792_Screenshot_2025-12-15_124509.png&w=640&q=75",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "https://youtu.be/oUBLfFLF_5w",
+            "youtubeUrl": "https://youtu.be/oUBLfFLF_5w",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67d008c283e3785bb4f16eae",
+            "name": "Üç pəhləvan və Dünyanın sonu",
+            "description": "Pəhləvanlar ailələrində sevindirici xəbərlər gözləyirlər, amma Vətən yenə də köməyə möhtacdır. Haradansa qəfil peyda olan nəhəng bir qara bulud bütün ağ dünyanı bürüyüb günü gecəyə çevirməklə hədələyir. Ailə qayğılarını kənara qoyan bahadırlar təhlükə ilə üz-üzə getməyə tələsirlər. Hiyləgər tacir Kolıvan isə sanki bunu gözləyirmiş kimi, Baba Yaqanın əlaltılarından olan quldurları özünə köməkçi yığıb knyazlığa hücum edir və çoxlu pis işlər görür. Amma hər şeyin bir sonu var. Bahadırlar Knyazın, şəhərin və sadiq at Yuliusun köməyinə gəlirlər.",
+            "iticketLink": null,
+            "country": "Rusiya",
+            "director": "Darina Şmidt",
+            "actors": [
+                "Sergey Makovetski",
+                "Yuliya Zorkina",
+                "Dmitri Vısotski"
+            ],
+            "genres": [
+                {
+                    "id": "67729bf2bf13b4256e98c15c",
+                    "title": "Macəra,Cizgi filmi"
+                }
+            ],
+            "movieId": 0,
+            "duration": 130,
+            "firstScreeningDate": "1/8/2026",
+            "year": 2025,
+            "ageLimit": "6+",
+            "languages": [
+                "RU"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1765869461209_Screenshot_2025-12-16_111707.png&w=1080&q=75",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "https://youtu.be/xDdKk2VF1dc?si=C7JIRdmE6Vy9sHAG",
+            "youtubeUrl": "https://youtu.be/xDdKk2VF1dc?si=C7JIRdmE6Vy9sHAG",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ed1dfbd596ba0a67b56de5",
+            "name": "Onların arzularının melodiyası",
+            "description": "Mayk və Kler Miluokidən olub həyatdan daha çox şey istəyirlər: Kler sadə bərbər olmaq istəmir, Mayk isə insanları əyləndirmək arzusundadır. Onlar Nil Daymondun mahnıları ilə duet şəklində çıxış etməyə başlayırlar. Zaman keçdikcə cütlük populyarlıq qazanır və musiqi yolunda ciddi sınaqlara baxmayaraq bir-birinə daha da yaxınlaşır.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Kreyq Brüer",
+            "actors": [
+                "Hyu Cekman",
+                "Keyt Hadson"
+            ],
+            "genres": [
+                {
+                    "id": "67729bcbbf13b4256e98c0ff",
+                    "title": "Tarixi,Drama,Bioqrafik,Musiqili"
+                }
+            ],
+            "movieId": 0,
+            "duration": 90,
+            "firstScreeningDate": "1/1/2026",
+            "year": 2026,
+            "ageLimit": "16+",
+            "languages": [
+                "EN",
+                "RU"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1766039778502_Screenshot_2025-12-18_103611.png&w=640&q=75",
+            "subtitles": "AZE",
+            "trailerUrl": "https://youtu.be/da6SSvOeY-4",
+            "youtubeUrl": "https://youtu.be/da6SSvOeY-4",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ef91956f500c02f5d919d8",
+            "name": "Xadimə",
+            "description": "Milli həyatına təmiz səhifədən başlamağı arzulayır və Vinçester ailəsinin dəbdəbəli malikanəsində xidmətçi kimi işi məmnuniyyətlə qəbul edir. Lakin qapalı qapılar və qəribə qaydalar arxasında qorxunc bir sirr gizlənir. Milli şokedici həqiqətə nə qədər yaxınlaşırsa, bir o qədər aydın olur ki, onun öz sirləri də kölgədə qalmayacaq.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Pol Fiq",
+            "actors": [
+                "Sidni Suini",
+                "Amanda Sayfred"
+            ],
+            "genres": [
+                {
+                    "id": "67719f3a250ee22dac939c7c",
+                    "title": "Trillerlər"
+                }
+            ],
+            "movieId": 0,
+            "duration": 220,
+            "firstScreeningDate": "1/8/2026",
+            "year": 2026,
+            "ageLimit": "18+",
+            "languages": [
+                "RU",
+                "EN"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1765788779797_Screenshot_2025-12-15_125251.png&w=640&q=75",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "",
+            "youtubeUrl": "",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ef91956f500c02f5d9d8",
+            "name": "Hozu Xan",
+            "description": "XV əsrdə Orta Asiyada Dərəbəylər xanlığının hökmdarı Ədalət xanın iki oğlu – ağıllı və mərd Hozu ilə hiyləgər Qarabuğday var idi. Qarabuğday taxtı ələ keçirmək üçün atasını ov zamanı öldürüb günahı Hozunun üstünə atır və onu zindana saldırır. Xanlıq Qarabuğdayın səriştəsiz idarəçiliyi ilə zəifləyir, aclıq və xaos başlayır",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "İlham Yaşaroğlu",
+            "actors": [
+                "Məcid Hüseynov",
+                "Ələkbər Əliyev",
+                "Tərlan Nur Yaşar",
+                "Aqil M Quliyev",
+                "Xuraman Əlizadə ",
+                "Renka Black Angel"
+            ],
+            "genres": [
+                {
+                    "id": "67719f3a250ee22dac939c7c",
+                    "title": "Komediya"
+                }
+            ],
+            "movieId": 0,
+            "duration": 220,
+            "firstScreeningDate": "11/1/2025",
+            "year": 2025,
+            "ageLimit": "12+",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1760954978184_HOZU_XAN_Final_Keyart.jpg&w=1080&q=75",
+            "subtitles": [
+                "Altyazı yoxdur"
+            ],
+            "trailerUrl": "",
+            "youtubeUrl": "",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ef91956fsjs0c02f5d9d8",
+            "name": "Zoopolis 2",
+            "description": "Polis dovşanı Cudi və tülkü Nik, şəhərin həyatını alt-üst edən müəmmalı bir sürünənin izinə düşürlər. Hadisəni açmaq üçün Cudi və Nik şəhərin müxtəlif rayonlarında gizli şəkildə işləməyə məcbur olurlar.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Cared Buş, Bayron Hovard",
+            "actors": [
+                "Ceyson Beytman",
+                "İvett Nikol Braun"
+            ],
+            "genres": [
+                {
+                    "id": "67719f3a250ee22dac939c7c",
+                    "title": "Macəra,Cizgi filmi,Fantastika,Komediya,Ailəvi"
+                }
+            ],
+            "movieId": 0,
+            "duration": 150,
+            "firstScreeningDate": "11/27/2025",
+            "year": 2025,
+            "ageLimit": "6+",
+            "languages": [
+                "RU",
+                "EN",
+                "TR"
+            ],
+            "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1759736466373_Screenshot_2025-10-06_114055.png&w=1080&q=75",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "https://youtu.be/OmJVDHPKoH0",
+            "youtubeUrl": "https://youtu.be/OmJVDHPKoH0",
+            "active": true,
+            "preSale": false
+        }
+    ],
+    "theatre": [
+        {
+            "id": "681008b26ea7da518619ee32",
+            "sessionId": 191438,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:01:06.680+00:00",
+                    "updatedDate": "2025-04-28T23:01:06.680+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008b26ea7da518619ee31",
+                    "priceId": 1,
+                    "ticketId": 1,
+                    "name": "стандарт",
+                    "price": 7,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:33.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02bc",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 6,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:33.968+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02c5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 7,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:30:06.775+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.783+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c94e2f004915fa0f0399",
+                            "title": "VIP онлайн",
+                            "discountCode": 18,
+                            "discountValue": 17,
+                            "discountType": "DOUBLE",
+                            "max": 5,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "00:20",
+            "calendarDate": "2025-05-02T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "18+",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "67f77b727fbe427fd53beffc",
+            "hallTitle": "Zal: 4",
+            "theatreId": "675aea152acad3103ea749e6",
+            "theatreTitle": "Flame Towers",
+            "onlineSale": true,
+            "active": true
+        }
+    ]
+}
