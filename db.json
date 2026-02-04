@@ -1,10 +1,15 @@
 {
   "slider" : [
     {
-        "slide_1": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1766133272122_1766133272119_wolt_post_sayt_banner__avatar.png&w=3840&q=75",
-        "slide_2": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1764670381422_1764670381419_wolt_post_sayt_banner_freddy.png&w=3840&q=75",
-        "slide_3": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1763369648490_1763369648490_banner__zoopolis.png&w=3840&q=75",
-        "slide_4": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1750852575156_1750852575156_wolt_post_sayt_banner.png&w=3840&q=75"
+       "slide_1": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1769066906396_1769066906396_wolt_post_sayt_banner_komek_edin.png&w=3840&q=75",
+       "slide_2": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1769066869197_1769066869196_wolt_post_sayt_banner__mercy.png&w=3840&q=75",
+       "slide_3": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1769066828954_1769066828953_wolt_post_sayt_banner_greland.png&w=3840&q=75",
+       "slide_4": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1769066800683_1769066800683_wolt_post_sayt_banner_marty_supreme.png&w=3840&q=75",
+       "slide_5": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1769066771533_1769066771529_wolt_post_sayt_banner_silent_hill.png&w=3840&q=75",
+        "slide_6": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1766133272122_1766133272119_wolt_post_sayt_banner__avatar.png&w=3840&q=75",
+        "slide_7": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1764670381422_1764670381419_wolt_post_sayt_banner_freddy.png&w=3840&q=75",
+        "slide_8": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1763369648490_1763369648490_banner__zoopolis.png&w=3840&q=75",
+        "slide_9": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1750852575156_1750852575156_wolt_post_sayt_banner.png&w=3840&q=75"
 
     }
   ],
