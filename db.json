@@ -45,7 +45,9 @@
             "year": 2025,
             "ageLimit": "18+",
             "languages": [
-                "AZ"
+                {
+                  "lang_img": "https://metropark.parkcinema.az/icons/az-flag.svg"
+                }
             ],
             "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767871593890_Screenshot_2026-01-08_152435.png&w=1080&q=75",
             "subtitles": [
@@ -84,7 +86,9 @@
             "year": 2025,
             "ageLimit": "18+",
             "languages": [
-                "AZ"
+                  {
+                    "lang_img": "https://metropark.parkcinema.az/icons/az-flag.svg"
+                  }
             ],
             "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767871566308_Screenshot_2026-01-08_152449.png&w=640&q=75",
             "subtitles": [
@@ -123,7 +127,9 @@
             "year": 2025,
             "ageLimit": "18+",
             "languages": [
-                "AZ"
+                  {
+                    "lang_img": "https://metropark.parkcinema.az/icons/az-flag.svg"
+                  }
             ],
             "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767876820507_Screenshot_2026-01-08_165333.png&w=1080&q=75",
             "subtitles": [
@@ -162,7 +168,9 @@
             "year": 2022,
             "ageLimit": "16+",
             "languages": [
-                "AZ"
+                  {
+                    "lang_img": "https://metropark.parkcinema.az/icons/az-flag.svg"
+                  }
             ],
             "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767878694013_Screenshot_2026-01-08_172444.png&w=640&q=75",
             "subtitles": [
@@ -195,7 +203,9 @@
             "year": 2025,
             "ageLimit": "18+",
             "languages": [
-                "AZ"
+                  {
+                    "lang_img": "https://metropark.parkcinema.az/icons/az-flag.svg" , "https://metropark.parkcinema.az/icons/ru-flag.svg",
+                  }
             ],
             "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1743592131400_POSTER.jpg&w=1080&q=75",
             "subtitles": "Altyazı yoxdur",
