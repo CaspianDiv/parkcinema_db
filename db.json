@@ -1,12 +1,6 @@
 {
   "slider": [
     {
-<<<<<<< HEAD
-      "slide_1": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1766133272122_1766133272119_wolt_post_sayt_banner__avatar.png&w=3840&q=75",
-      "slide_2": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1764670381422_1764670381419_wolt_post_sayt_banner_freddy.png&w=3840&q=75",
-      "slide_3": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1763369648490_1763369648490_banner__zoopolis.png&w=3840&q=75",
-      "slide_4": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1750852575156_1750852575156_wolt_post_sayt_banner.png&w=3840&q=75"
-=======
        "slide_1": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1772523474265_1772523474262_wolt_post_sayt_banner__hoppers.png&w=3840&q=75",
        "slide_2": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1770808213675_1770808213675_wolt_post_sayt_banner_goat.png&w=3840&q=75",
        "slide_3": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1770808195594_1770808195593_wolt_post_sayt_banner_kulekler__dagi.png&w=3840&q=75",
@@ -20,8 +14,6 @@
         "slide_11": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1766133272122_1766133272119_wolt_post_sayt_banner__avatar.png&w=3840&q=75",
         "slide_12": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1763369648490_1763369648490_banner__zoopolis.png&w=3840&q=75",
         "slide_13": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1750852575156_1750852575156_wolt_post_sayt_banner.png&w=3840&q=75"
-      
->>>>>>> 4f13a82a734a616d72a17398ac14fec51fe9d342
     }
   ],
   "movies": [
@@ -43,10 +35,8 @@
       ],
       "genres": [
         {
-<<<<<<< HEAD
           "id": "67729bcbbf13b4256e98c0ff",
-          "title": "Trillerlər"
-=======
+          "title": "Trillerlər",
             "id": "6809f2e687f15d5253eeea86",
             "name": "Səkkiz(1-ci hissə)",
             "description": "Məktəbli qızının intiharından sonra baş qəhrəmanın həyatı tamamilə dağılır. Bu itki onun içində gizli qalmış uşaqlıq travmalarını oyadır və ağrı qisas istəyinə çevrilir. O, qızının ölümündə günahkar bildiyi insanları bir-bir hədəf almağa başlayır. Keçmiş həyat yoldaşı, biganə tibb bacısı, məktəb direktoru və ən yaxınları onun yolunda dayanır. Hər qətl onu azad etməli idi, amma əksinə, daha da qaranlığa sürükləyir. Cəmiyyətdə sakit və mehriban görünən bu kişi, daxilində tam başqa bir insandır.",
@@ -693,7 +683,6 @@
             "youtubeUrl": "https://www.youtube.com/embed/5AwtptT8X8k?si=G2UvAt8ev7D0fB94",
             "active": true,
             "preSale": false
->>>>>>> 4f13a82a734a616d72a17398ac14fec51fe9d342
         }
       ],
       "movieId": 0,
