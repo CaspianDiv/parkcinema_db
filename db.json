@@ -35,9 +35,8 @@
       ],
       "genres": [
         {
-          "id": "67729bcbbf13b4256e98c0ff",
+          "id": "6809f2e687f15d5253eeea86",
           "title": "Trillerlər",
-            "id": "6809f2e687f15d5253eeea86",
             "name": "Səkkiz(1-ci hissə)",
             "description": "Məktəbli qızının intiharından sonra baş qəhrəmanın həyatı tamamilə dağılır. Bu itki onun içində gizli qalmış uşaqlıq travmalarını oyadır və ağrı qisas istəyinə çevrilir. O, qızının ölümündə günahkar bildiyi insanları bir-bir hədəf almağa başlayır. Keçmiş həyat yoldaşı, biganə tibb bacısı, məktəb direktoru və ən yaxınları onun yolunda dayanır. Hər qətl onu azad etməli idi, amma əksinə, daha da qaranlığa sürükləyir. Cəmiyyətdə sakit və mehriban görünən bu kişi, daxilində tam başqa bir insandır.",
             "iticketLink": null,
@@ -2264,8 +2263,5 @@
         "active": true
       }
     ]
-<<<<<<< HEAD
   ]
-=======
->>>>>>> 4f13a82a734a616d72a17398ac14fec51fe9d342
 }
