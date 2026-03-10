@@ -1119,7 +1119,6 @@
     }
   ],
   "theatre": [
-    [
       {
         "id": "681008b26ea7da518619ee32",
         "sessionId": 191438,
@@ -2262,6 +2261,5 @@
         "onlineSale": true,
         "active": true
       }
-    ]
   ]
 }
