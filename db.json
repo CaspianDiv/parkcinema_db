@@ -34,12 +34,12 @@
         "Zülfiyyə Qurbanova"
       ],
       "genres": [
-        {
+          {
           "id": "6809f2e687f15d5253eeea86",
           "title": "Trillerlər",
             "name": "Səkkiz(1-ci hissə)",
             "description": "Məktəbli qızının intiharından sonra baş qəhrəmanın həyatı tamamilə dağılır. Bu itki onun içində gizli qalmış uşaqlıq travmalarını oyadır və ağrı qisas istəyinə çevrilir. O, qızının ölümündə günahkar bildiyi insanları bir-bir hədəf almağa başlayır. Keçmiş həyat yoldaşı, biganə tibb bacısı, məktəb direktoru və ən yaxınları onun yolunda dayanır. Hər qətl onu azad etməli idi, amma əksinə, daha da qaranlığa sürükləyir. Cəmiyyətdə sakit və mehriban görünən bu kişi, daxilində tam başqa bir insandır.",
-            "iticketLink": null,
+            "iticketLink": null,<BsFill2SquareFill />
             "country": "Azərbaycan",
             "director": "Hikmət Rəhimov",
             "actors": [
@@ -62,6 +62,10 @@
             "firstScreeningDate": "12/27/2025",
             "year": 2025,
             "ageLimit": "18+",
+            "hallType": "2D",
+            "theatreTitle": "Flame Towers",
+            "hallNumber": 5,
+            "period": "01:00:00",
             "languages": [
                 {
                   "lang_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
