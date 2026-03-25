@@ -689,9 +689,20 @@
       "firstScreeningDate": "12/27/2025",
       "year": 2025,
       "ageLimit": "18+",
-      "languages": ["AZ"],
+      "languages": [
+        {
+          "lang_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767871593890_Screenshot_2026-01-08_152435.png&w=1080&q=75",
-      "subtitles": ["Altyazı yoxdur"],
+      "subtitles": [
+        {
+          "sub_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        },
+        {
+          "sub_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        }
+      ],
       "trailerUrl": "",
       "youtubeUrl": "https://youtu.be/iskn2E2pvN4?si=LMy4WRFAiExFiuf6",
       "active": true,
@@ -724,9 +735,20 @@
       "firstScreeningDate": "1/9/2026",
       "year": 2025,
       "ageLimit": "18+",
-      "languages": ["AZ"],
+      "languages": [
+        {
+          "lang_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767871566308_Screenshot_2026-01-08_152449.png&w=640&q=75",
-      "subtitles": ["Altyazı yoxdur"],
+      "subtitles": [
+        {
+          "sub_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        },
+        {
+          "sub_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        }
+      ],
       "trailerUrl": "",
       "youtubeUrl": "",
       "active": true,
@@ -759,9 +781,20 @@
       "firstScreeningDate": "1/15/2026",
       "year": 2025,
       "ageLimit": "18+",
-      "languages": ["AZ"],
+      "languages": [
+        {
+          "lang_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767876820507_Screenshot_2026-01-08_165333.png&w=1080&q=75",
-      "subtitles": ["Altyazı yoxdur"],
+      "subtitles": [
+        {
+          "sub_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        },
+        {
+          "sub_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        }
+      ],
       "trailerUrl": "",
       "youtubeUrl": "",
       "active": true,
@@ -794,9 +827,20 @@
       "firstScreeningDate": "1/15/2026",
       "year": 2022,
       "ageLimit": "16+",
-      "languages": ["AZ"],
+      "languages": [
+        {
+          "lang_az" : "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767878694013_Screenshot_2026-01-08_172444.png&w=640&q=75",
-      "subtitles": ["Altyazı yoxdur"],
+      "subtitles": [
+        {
+          "sub_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        },
+        {
+          "sub_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        }
+      ],
       "trailerUrl": "",
       "youtubeUrl": "",
       "active": true,
@@ -821,9 +865,20 @@
       "firstScreeningDate": "1/15/2026",
       "year": 2025,
       "ageLimit": "18+",
-      "languages": ["AZ"],
+      "languages": [
+        {
+          "lang_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1743592131400_POSTER.jpg&w=1080&q=75",
-      "subtitles": "Altyazı yoxdur",
+      "subtitles": [
+        {
+          "sub_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        },
+        {
+          "sub_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        }
+      ],
       "trailerUrl": "https://youtu.be/IjN1DmY4Vwg?si=s-3UcE-NhK9AhegJ",
       "youtubeUrl": "https://youtu.be/IjN1DmY4Vwg?si=s-3UcE-NhK9AhegJ",
       "active": true,
@@ -848,9 +903,23 @@
       "firstScreeningDate": "12/18/2025",
       "year": 2025,
       "ageLimit": "16+",
-      "languages": ["TR", "EN", "RU"],
+      "languages": [
+        {
+          "lang_tr": "https://metropark.parkcinema.az/icons/tr-flag.svg"
+        },
+        {
+          "lang_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        },
+        {
+          "lang_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1758267691253_1080x_(16).jpeg.jpg&w=1080&q=75",
-      "subtitles": ["AZ"],
+      "subtitles": [
+        {
+          "sub_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "trailerUrl": "",
       "youtubeUrl": "",
       "active": true,
@@ -875,7 +944,14 @@
       "firstScreeningDate": "12/25/2025",
       "year": 2025,
       "ageLimit": "6+",
-      "languages": ["TR", "RU"],
+      "languages": [
+        {
+          "lang_tr": "https://metropark.parkcinema.az/icons/tr-flag.svg"
+        },
+        {
+          "lang_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1764577320678_Screenshot_2025-12-01_122150.png&w=640&q=75",
       "subtitles": "AZE",
       "trailerUrl": "https://youtu.be/KZEU9YRbn6s",
@@ -908,9 +984,17 @@
       "firstScreeningDate": "12/11/2025",
       "year": 2023,
       "ageLimit": "16+",
-      "languages": ["AZ"],
+      "languages": [
+        {
+          "lang_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1764746922057__WhatsApp_2025-12-03__11.28.24_bc937087.jpg&w=640&q=75",
-      "subtitles": ["AZ"],
+      "subtitles": [
+        {
+          "sub_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "trailerUrl": "",
       "youtubeUrl": "",
       "active": true,
@@ -940,9 +1024,17 @@
       "firstScreeningDate": "1/1/2026",
       "year": 2025,
       "ageLimit": "6+",
-      "languages": ["RU"],
+      "languages": [
+        {
+          "lang_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1765787960303_Screenshot_2025-12-15_123912.png&w=640&q=75",
-      "subtitles": "AZE",
+      "subtitles": [
+        {
+          "sub_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "trailerUrl": "https://youtu.be/9XNkWa8pYto",
       "youtubeUrl": "https://youtu.be/9XNkWa8pYto",
       "active": true,
@@ -967,9 +1059,20 @@
       "firstScreeningDate": "1/8/2026",
       "year": 2025,
       "ageLimit": "18+",
-      "languages": ["RU", "EN"],
+      "languages": [
+        {
+          "lang_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        },
+        {
+          "lang_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1765788315792_Screenshot_2025-12-15_124509.png&w=640&q=75",
-      "subtitles": ["AZ"],
+      "subtitles": [
+        {
+          "sub_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "trailerUrl": "https://youtu.be/oUBLfFLF_5w",
       "youtubeUrl": "https://youtu.be/oUBLfFLF_5w",
       "active": true,
@@ -994,9 +1097,17 @@
       "firstScreeningDate": "1/8/2026",
       "year": 2025,
       "ageLimit": "6+",
-      "languages": ["RU"],
+      "languages": [
+        {
+          "lang_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1765869461209_Screenshot_2025-12-16_111707.png&w=1080&q=75",
-      "subtitles": ["AZ"],
+      "subtitles": [
+        {
+          "sub_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "trailerUrl": "https://youtu.be/xDdKk2VF1dc?si=C7JIRdmE6Vy9sHAG",
       "youtubeUrl": "https://youtu.be/xDdKk2VF1dc?si=C7JIRdmE6Vy9sHAG",
       "active": true,
@@ -1021,9 +1132,20 @@
       "firstScreeningDate": "1/1/2026",
       "year": 2026,
       "ageLimit": "16+",
-      "languages": ["EN", "RU"],
+      "languages": [
+        {
+          "lang_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        },
+        {
+          "lang_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1766039778502_Screenshot_2025-12-18_103611.png&w=640&q=75",
-      "subtitles": "AZE",
+      "subtitles": [
+        {
+          "sub_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "trailerUrl": "https://youtu.be/da6SSvOeY-4",
       "youtubeUrl": "https://youtu.be/da6SSvOeY-4",
       "active": true,
@@ -1048,9 +1170,20 @@
       "firstScreeningDate": "1/8/2026",
       "year": 2026,
       "ageLimit": "18+",
-      "languages": ["RU", "EN"],
+      "languages": [
+        {
+          "lang_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        },
+        {
+          "lang_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1765788779797_Screenshot_2025-12-15_125251.png&w=640&q=75",
-      "subtitles": ["AZ"],
+      "subtitles": [
+        {
+          "sub_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "trailerUrl": "",
       "youtubeUrl": "",
       "active": true,
@@ -1082,9 +1215,17 @@
       "firstScreeningDate": "11/1/2025",
       "year": 2025,
       "ageLimit": "12+",
-      "languages": ["AZ"],
+      "languages": [
+        {
+          "lang_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1760954978184_HOZU_XAN_Final_Keyart.jpg&w=1080&q=75",
-      "subtitles": ["Altyazı yoxdur"],
+      "subtitles": [
+        {
+          "sub_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        }
+      ],
       "trailerUrl": "",
       "youtubeUrl": "",
       "active": true,
@@ -1109,9 +1250,23 @@
       "firstScreeningDate": "11/27/2025",
       "year": 2025,
       "ageLimit": "6+",
-      "languages": ["RU", "EN", "TR"],
+      "languages": [
+        {
+          "lang_ru": "https://metropark.parkcinema.az/icons/ru-flag.svg"
+        },
+        {
+          "lang_en": "https://metropark.parkcinema.az/icons/en-flag.svg"
+        },
+        {
+          "lang_tr": "https://metropark.parkcinema.az/icons/tr-flag.svg"
+        }
+      ],
       "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1759736466373_Screenshot_2025-10-06_114055.png&w=1080&q=75",
-      "subtitles": ["AZ"],
+      "subtitles": [
+        {
+          "sub_az": "https://metropark.parkcinema.az/icons/az-flag.svg"
+        }
+      ],
       "trailerUrl": "https://youtu.be/OmJVDHPKoH0",
       "youtubeUrl": "https://youtu.be/OmJVDHPKoH0",
       "active": true,
@@ -1119,7 +1274,6 @@
     }
   ],
   "theatre": [
-    [
       {
         "id": "681008b26ea7da518619ee32",
         "sessionId": 191438,
@@ -1212,7 +1366,7 @@
           "year": 2025,
           "ageLimit": "SIXTEEN",
           "languages": ["RU"],
-          "image": "1745482450359__.png",
+          "image": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1767871593890_Screenshot_2026-01-08_152435.png&w=1080&q=75",
           "subtitles": ["AZ"],
           "trailerUrl": "",
           "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
@@ -2262,6 +2416,5 @@
         "onlineSale": true,
         "active": true
       }
-    ]
   ]
 }
