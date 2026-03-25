@@ -1274,6 +1274,7 @@
     }
   ],
   "theatre": [
+<<<<<<< HEAD
      {
           "id": "681008b26ea7da518619ee32",
           "title": "Trillerlər",
@@ -1321,6 +1322,114 @@
             "active": true,
             "preSale": true
         },
+=======
+      {
+        "id": "681008b26ea7da518619ee32",
+        "sessionId": 191438,
+        "price": [
+          {
+            "createdDate": "2025-04-28T23:01:06.680+00:00",
+            "updatedDate": "2025-04-28T23:01:06.680+00:00",
+            "createdBy": null,
+            "updatedBy": null,
+            "id": "681008b26ea7da518619ee31",
+            "priceId": 1,
+            "ticketId": 1,
+            "name": "стандарт",
+            "price": 7,
+            "discounts": [
+              {
+                "createdDate": "2025-01-14T20:29:33.017+00:00",
+                "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                "createdBy": null,
+                "updatedBy": "admin@admin.com",
+                "id": "6786c92d2f004915fa0f02bc",
+                "title": "Семья онлайн",
+                "discountCode": 16,
+                "discountValue": 6,
+                "discountType": "FAMILY",
+                "max": 4,
+                "min": 3
+              },
+              {
+                "createdDate": "2025-01-14T20:29:33.968+00:00",
+                "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                "createdBy": null,
+                "updatedBy": "admin@admin.com",
+                "id": "6786c92d2f004915fa0f02c5",
+                "title": "Взрослый  онлайн",
+                "discountCode": 15,
+                "discountValue": 7,
+                "discountType": "ADULT",
+                "max": 10,
+                "min": 1
+              },
+              {
+                "createdDate": "2025-01-14T20:30:06.775+00:00",
+                "updatedDate": "2025-04-28T23:02:52.783+00:00",
+                "createdBy": null,
+                "updatedBy": "admin@admin.com",
+                "id": "6786c94e2f004915fa0f0399",
+                "title": "VIP онлайн",
+                "discountCode": 18,
+                "discountValue": 17,
+                "discountType": "DOUBLE",
+                "max": 5,
+                "min": 1
+              }
+            ]
+          }
+        ],
+        "date": "2025-05-01T00:00:00.000+04:00",
+        "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+        "time": "00:20",
+        "calendarDate": "2025-05-02T00:00:00.000+04:00",
+        "promoCodes": [],
+        "language": "RU",
+        "subtitle": "AZ",
+        "type": "_2D",
+        "hallType": "REGULAR",
+        "movie": {
+          "id": "6809f2e687f15d5253eeea86",
+          "name": "Patrul",
+          "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+          "iticketLink": null,
+          "country": "Qazaxıstan",
+          "director": "Rustem Omarov",
+          "actors": [
+            "Renat Muhambayev",
+            "Tambi Masayev",
+            "Imanbek",
+            "Adilcan Şombalov"
+          ],
+          "genres": [
+            {
+              "id": "67729bcbbf13b4256e98c0ff",
+              "title": "Komediya"
+            }
+          ],
+          "movieId": 0,
+          "duration": 110,
+          "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+          "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+          "year": 2025,
+          "ageLimit": "SIXTEEN",
+          "languages": ["RU"],
+          "image": "1745482450359__.png",
+          "subtitles": ["AZ"],
+          "trailerUrl": "",
+          "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+          "active": true,
+          "preSale": true
+        },
+        "hallId": "67f77b727fbe427fd53beffc",
+        "hallTitle": "Zal: 4",
+        "theatreId": "675aea152acad3103ea749e6",
+        "theatreTitle": "Flame Towers",
+        "onlineSale": true,
+        "active": true
+      },
+>>>>>>> 2d2a0ae7492004e18fc5b21e2f2653ac6afa3072
       {
         "id": "681008a46ea7da518619ecfe",
         "sessionId": 298645,
@@ -2358,4 +2467,8 @@
         "active": true
       }
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2d2a0ae7492004e18fc5b21e2f2653ac6afa3072
