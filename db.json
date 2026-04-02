@@ -74,6 +74,9 @@
             "ageLimit": "18+",
             "hallType": "2D",
             "theatreTitle": "Flame Towers",
+            "price": 8,
+            "adult": 8,
+            "family": 6,
             "hallNumber": 5,
             "period": "01:00:00",
             "languages": [
