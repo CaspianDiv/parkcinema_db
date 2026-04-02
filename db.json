@@ -1,4 +1,14 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Admin",
+      "lastName": "User",
+      "email": "admin@example.com",
+      "phone": "+994502313211",
+      "password": "Admin123!"
+    }
+  ],
   "slider": [
     {
        "slide_1": "https://metropark.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1772523474265_1772523474262_wolt_post_sayt_banner__hoppers.png&w=3840&q=75",
